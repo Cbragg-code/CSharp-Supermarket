@@ -1,0 +1,17 @@
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio working folder
+.vs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Mac OS metadata files
+__MACOSX/
